@@ -5340,7 +5340,7 @@
         "logo": "svgs/cells.svg",
         "minversion": "0.0.0",
         "port": "8080"
-    }
+    },
     "wordpress-with-openlitespeed-and-mariadb": {
     "documentation": "https://www.litespeedtech.com/products/openlitespeed/wordpress",
     "slogan": "WordPress with OpenLiteSpeed for high performance production environments.",
